@@ -7,6 +7,8 @@
 require('./bootstrap');
 
 window.Vue = require('vue');
+import Form from './Form'
+window.Form = Form
 
 /**
  * The following block of code may be used to automatically register your
