@@ -10910,3 +10910,7 @@ body {
   background: radial-gradient(circle, #020024 0%, #e58e8e 0%, #00c2ff 100%);
 }
 
+.todo svg:hover {
+  cursor: pointer;
+}
+
